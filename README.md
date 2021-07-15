@@ -32,23 +32,23 @@ Atualmente moro em Osasco/SP-BR.<br/>
 - Veja meu <a href="https://www.dropbox.com/home?preview=Curriculo_Laurindo_1.pdf" target="_blank">Curriculo</a> para mais informações.
 
 <p>
-  <img align="left" src="https://github-redme-stats.vercel.app/api/top-langs/?username=devlaurindo&layout=compact&theme=graywhite&title_color=268bd2" alt="Laurindo Jesus" />
+  <img align="left" src="https://github-redme-stats-vercel.app/api/top-langs/?username=devlaurindo&layout=compact&theme=graywhite&title_color=268bd2" alt="Laurindo Jesus" />
 </p>
 <p>&nbsp;
-  <img align"center" src="https://github-redme-stats.vercel.app/api?username=devlaurindo&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd&title_color=268bd2" alt="Laurindo Jesus" />
+  <img align"center" src="https://github-redme-stats-vercel.app/api?username=devlaurindo&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd&title_color=268bd2" alt="Laurindo Jesus" />
 </p>
 
 ** Linguagens e Ferramentas: **
 
 <p align="left">
-<img src"https://raw.githubuser.content.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src"https://raw.githubuser.content.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src"https://raw.githubuser.content.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src"https://raw.githubuser.content.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src"https://raw.githubuser.content.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src"https://raw.githubuser.content.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src"https://raw.githubuser.content.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
-<img src"https://raw.githubuser.content.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
+<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 
