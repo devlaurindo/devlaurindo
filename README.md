@@ -32,12 +32,10 @@ Atualmente moro em Osasco/SP-BR.<br/>
 - Veja meu <a href="https://www.dropbox.com/home?preview=Curriculo_Laurindo_1.pdf" target="_blank">Curriculo</a> para mais informações.
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaurindo&layout=compact&theme=graywhite&title_color=268bd2" alt="Laurindo Jesus" />
-</p>
-
-
-<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=devlaurindo&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Laurindo Jesus" />
+</p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaurindo&layout=compact&theme=graywhite&title_color=268bd2" alt="Laurindo Jesus" />
 </p>
 
 ** Linguagens e Ferramentas: **
