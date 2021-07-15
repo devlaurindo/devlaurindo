@@ -51,5 +51,7 @@ Atualmente moro em Osasco/SP-BR.<br/>
 </br>
 </br>
 </br>
+</br>
+</br>
 
 <p align="left"> <img src="https://komarev.com./ghpvc/?username=devlaurindo" alt="Laurindo Jesus" /> </p>
