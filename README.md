@@ -15,10 +15,11 @@ Atualmente moro em Osasco/SP-BR.<br/>
 </p>
 
 <hr/>
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626367012513.png" width="400px" />
 
 ** Meus interesses pessoais: **
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626367012513.png" width="400px" />
+
 
 - Estou estudando FullStack com **Javascript**, **Angular**, **React**, **React Native**, **Python**, **MongoDB**;
 - Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo minha carreira;
@@ -34,23 +35,21 @@ Atualmente moro em Osasco/SP-BR.<br/>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaurindo&layout=compact&theme=graywhite&title_color=268bd2" alt="Laurindo Jesus" />
 </p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 <p>&nbsp;
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=devlaurindo&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Laurindo Jesus" />
 </p>
-
-
-** Linguagens e Ferramentas: **
-
-<p align="left">
-<img src"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
-<img src"https://raw-githubuser-content.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <p align="left"> <img src="https://komarev.com./ghpvc/?username=devlaurindo" alt="Laurindo Jesus" /> </p>
