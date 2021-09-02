@@ -31,7 +31,7 @@ Atualmente moro em Osasco/SP-BR.<br/>
   - Jogar FPS e MMORPG;
 - Fique a vontade para me chamar, ficarei muito feliz em poder ajuda-lo;
 - Se quiser pode enviar um email para laurindo_jesus@hotmail.com
-- Veja meu <a href="https://www.dropbox.com/home?preview=Curriculo_Laurindo_1.pdf" target="_blank">Curriculo</a> para mais informações.
+- Veja meu <a href="https://drive.google.com/file/d/1GuL-zHvzn6iZ-6Ag4Tnu1G9QPuqQ9Naa/view" target="_blank">Curriculo</a> para mais informações.
 
 <p>
 <img align="left" src="https://drive.google.com/file/d/1GuL-zHvzn6iZ-6Ag4Tnu1G9QPuqQ9Naa/view" alt="Laurindo Jesus" />
