@@ -9,6 +9,7 @@
 <p align="left">
 Atualmente moro em Osasco/SP-BR.<br/>
   E estou estudando <b>Analise e Desenvolvimento de Sistemas</b> na Universidade Unicesumar.
+  E estou realizando <b>Especialização Data Science </b> na Anhembi Morumbi.
 </a>
 <p align="left">
   Nas horas livres continuo estudando e produzindo conteudos de tecnologias.
@@ -21,7 +22,7 @@ Atualmente moro em Osasco/SP-BR.<br/>
 
 
 
-- Estou estudando FullStack com **Javascript**, **Angular**, **React**, **React Native**, **Python**, **MongoDB**;
+- Estou estudando Data Science com **Python**, **Machine Learning**, **Power BI**, **Big Data**, **SQL**, **MongoDB**, **PostgreSQL**, **MySQL**;
 - Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo minha carreira;
 - Meus hobbies são:
   - Estudar sobre hacking e redes;
@@ -33,7 +34,7 @@ Atualmente moro em Osasco/SP-BR.<br/>
 - Veja meu <a href="https://www.dropbox.com/home?preview=Curriculo_Laurindo_1.pdf" target="_blank">Curriculo</a> para mais informações.
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaurindo&layout=compact&theme=graywhite&title_color=268bd2" alt="Laurindo Jesus" />
+<img align="left" src="https://drive.google.com/file/d/1GuL-zHvzn6iZ-6Ag4Tnu1G9QPuqQ9Naa/view" alt="Laurindo Jesus" />
 </p>
 </br>
 </br>
