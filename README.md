@@ -8,7 +8,6 @@
 </p>
 <p align="left">
 Atualmente moro em Osasco/SP-BR.<br/>
-  E estou estudando <b>Analise e Desenvolvimento de Sistemas</b> na Universidade Unicesumar.</br>
   E estou realizando <b>Especialização Data Science </b> na Anhembi Morumbi.
 </a>
 <p align="left">
