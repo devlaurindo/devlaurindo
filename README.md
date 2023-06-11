@@ -7,8 +7,7 @@
   Me chamo <b> Laurindo Jesus</b>
 </p>
 <p align="left">
-Atualmente moro em Osasco/SP-BR.<br/>
-  E estou realizando <b>Especialização Data Science </b> na Anhembi Morumbi.
+  E estou realizando <b>Faculdade Analise e Desenvolvimento de Sistemas </b> na Estacio.
 </a>
 <p align="left">
   Nas horas livres continuo estudando e produzindo conteudos de tecnologias.
@@ -21,7 +20,7 @@ Atualmente moro em Osasco/SP-BR.<br/>
 
 
 
-- Estou estudando Data Science com **Python**, **Machine Learning**, **Power BI**, **Big Data**, **SQL**, **MongoDB**, **PostgreSQL**, **MySQL**;
+- Estou estudando Back-end com **Java**, **LiquiBase**, **Kafka**, **SQL**, **MongoDB**, **PostgreSQL**, **MySQL**;
 - Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo minha carreira;
 - Meus hobbies são:
   - Estudar sobre hacking e redes;
